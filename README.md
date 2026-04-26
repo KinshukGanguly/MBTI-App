@@ -48,6 +48,12 @@ pip install -r requirements.txt
 
 ---
 
+
+## Model weights drive link : [Link](https://drive.google.com/drive/folders/1EOD38FBXzWY5-hrMoOUuKh0EHj2hbMqt?usp=drive_link)
+
+### download the model weights and place the same in the repository. All file names are set accordingly
+
+
 ## 2 · Configure .env
 
 ```powershell
